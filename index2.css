@@ -1,4 +1,9 @@
 body{
     font-size: 10px;
     color: blue;
+    border: solid 15px;
+    flex: 1;
+    display: column;
+
+
 }
